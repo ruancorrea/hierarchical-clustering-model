@@ -1,0 +1,10 @@
+# Core Dependencies for Hierarchical Cluster Model (HCM)
+numpy>=1.26.0
+pandas>=2.0.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+ortools>=9.8.0
+tqdm>=4.66.0
+requests>=2.30.0
+joblib>=1.3.0
+dacite>=1.8.0
